@@ -3,7 +3,7 @@ title: "Running a single Rust doctest"
 se: ["stackoverflow", "66415959"]
 license: "CC-BY-SA-4.0" # from SE question
 attrib:
-  - me
+  - smitop
   - ["Henry", "https://stackoverflow.com/users/13753914/henry"]
 category: "rust"
 tags: ["programming", "rust"]
