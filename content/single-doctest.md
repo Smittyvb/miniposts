@@ -5,6 +5,8 @@ license: "CC-BY-SA-4.0" # from SE question
 attrib:
   - me
   - ["Henry", "https://stackoverflow.com/users/13753914/henry"]
+category: "rust"
+tags: ["programming", "rust"]
 ---
 Sometimes you want to run a single doctest in Rust. If you have some Rust source code like this:
 ```rust
